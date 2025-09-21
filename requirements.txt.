@@ -1,5 +1,10 @@
 pandas
+numpy
 matplotlib
 seaborn
+scikit-learn
+spacy
+openpyxl
 langchain_community
 replicate
+
