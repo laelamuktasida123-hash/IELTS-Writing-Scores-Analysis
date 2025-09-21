@@ -50,7 +50,7 @@ This project transforms raw essay data into *actionable insights* that help unde
 ## 🚀 How to Run
 1. Open Google Colab → File → Open notebook → GitHub  
 2. Paste this repo URL:  https://github.com/laelamuktasida123-hash/IELTS-Writing-Scores-Analysis
-3. Select notebooks/Capstone_Classificarion and Summarization.ipynb 
+3. Select notebooks/Writing-Scores-Analysis.ipynb
 4. Run all cells  
 5. Dataset will load from /data/ielts_essays.csv
 
