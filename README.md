@@ -52,7 +52,7 @@ This project transforms raw essay data into *actionable insights* that help unde
 2. Paste this repo URL:  https://github.com/laelamuktasida123-hash/IELTS-Writing-Scores-Analysis
 3. Select notebooks/Writing-Scores-Analysis.ipynb
 4. Run all cells  
-5. Dataset will load from /data/ielts_writing_dataset
+5. Dataset will load from /data/ielts_writing_dataset.csv
 
 ### 🗺️ Implementation Roadmap
 - *1–3 months*: Preprocessing pipeline & EDA visualizations  
